@@ -1,5 +1,5 @@
 # Genomic-Dominance-Relationship-Matrix
-R scripts for calculating the centered and normalised dominance relationship matrices.
+R scripts for calculating the centered and normalised dominance relationship matrices. Note that missing data is replaced with a zero.
 
 Details on methodologies can be found in: 
 
